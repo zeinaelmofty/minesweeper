@@ -1,1 +1,2 @@
 # minesweeper
+Implemented the AI module for a minesweeper robot using Haskell. The project involved developing an intelligent algorithm that enabled the robot to autonomously play the game of Minesweeper. The AI module utilised advanced techniques such as logic inference, heuristics, and backtracking to identify safe and risky cells, flag potential mines, and make optimal moves. The implementation demonstrated a deep understanding of functional programming concepts in Haskell and showcased problem-solving skills in the context of artificial intelligence.
